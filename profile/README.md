@@ -6,7 +6,7 @@ GitHub is the go-to place for all of our SDKs, code samples, and open source pro
 
 We are open to any form of contribution—just open a PR for an SDK or sample project, and we'll make sure to check it out!
 
-If you have any questions, just reach out to open-source@deepl.com
+If you have any questions, just reach out to open-source@deepl.com.
 
 
 ### Our SDKs
