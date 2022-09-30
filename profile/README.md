@@ -6,17 +6,17 @@ GitHub is the go-to place for all of our SDKs, code samples, and open source pro
 
 We are open to any form of contribution—just open a PR for an SDK or sample project, and we'll make sure to check it out!
 
-If you have any questions, just reach out to open-source@deepl.com
+If you have any questions, just reach out to open-source@deepl.com.
 
 
 ### Our SDKs
 <p align="left">
 
-<a href="https://github.com/deeplcom/deepl-dotnet"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a> 
-<a href="https://github.com/deeplcom/deepl-python"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="csharp" width="40" height="40"/></a> 
-<a href="https://github.com/DeepLcom/deepl-php"> <img src="https://w7.pngwing.com/pngs/751/3/png-transparent-logo-php-html-others-text-trademark-logo-thumbnail.png" alt="csharp" width="40" height="40"/></a> 
-<a href="https://github.com/DeepLcom/deepl-node"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="csharp" width="80" height="40"/></a> 
-<a href="https://github.com/DeepLcom/deepl-java"> <img src="https://upload.wikimedia.org/wikipedia/de/thumb/e/e1/Java-Logo.svg/1200px-Java-Logo.svg.png" alt="csharp" width="20" height="40"/></a> 
+<a href="https://github.com/deeplcom/deepl-dotnet"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C# logo" width="40" height="40"/></a> 
+<a href="https://github.com/deeplcom/deepl-python"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" width="40" height="40"/></a> 
+<a href="https://github.com/DeepLcom/deepl-php"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP logo" width="40" height="40"/></a> 
+<a href="https://github.com/DeepLcom/deepl-node"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js logo" width="80" height="40"/></a> 
+<a href="https://github.com/DeepLcom/deepl-java"> <img src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" alt="Java logo" width="20" height="40"/></a> 
 
 </p>
 
