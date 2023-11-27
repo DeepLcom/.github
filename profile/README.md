@@ -6,8 +6,11 @@ GitHub is the go-to place for all of our SDKs, code samples, and open source pro
 
 We are open to any form of contribution—just open a PR for an SDK or sample project, and we'll make sure to check it out!
 
-If you have any questions, just reach out to open-source@deepl.com.
+If you have any questions:
+* <a href="https://discord.gg/deepl" target='_blank'>  <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="C# logo" height="20"/>  join our API Community on Discord</a>  
+* or just reach out to open-source@deepl.com.
 
+For specific issues related to one of our libraries please open an issue in the respective project. 
 
 ### Our SDKs
 <p align="left">
