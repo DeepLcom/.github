@@ -6,8 +6,6 @@ GitHub is the go-to place for all of our SDKs, code samples, and open source pro
 
 We are open to any form of contribution—just open a PR for an SDK or sample project, and we'll make sure to check it out!
 
-If you have any questions just reach out to open-source@deepl.com.
-
 <a href="https://discord.gg/deepl" target='_blank'>  <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="discord logo" height="20"/>  join our API Community on Discord</a>  
 
 For specific issues related to one of our libraries please open an issue in the respective project. 
@@ -32,4 +30,4 @@ Check if there's something for you @ [jobs.deepl.com](https://jobs.deepl.com)
 
 ### Docs
 [<img src='https://img.shields.io/badge/Landing%20Page-deepl.com%2Fpro--api-%230f2b46' />](https://www.deepl.com/pro-api?cta=header-pro-api)
-[<img src='https://img.shields.io/badge/API%20Docs-deepl.com%2Fdocs--api-%230f2b46' />](https://www.deepl.com/docs-api)
+[<img src='https://img.shields.io/badge/API%20Docs-developers.deepl.com-%230f2b46' />](https://developers.deepl.com)
