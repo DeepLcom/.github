@@ -1,0 +1,2 @@
+# .github
+Deprecated - use @DeepL
